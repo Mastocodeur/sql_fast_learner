@@ -12,6 +12,7 @@ Ce qui est intéressant c'est de proposer vraiment un cours très complet, ludiq
 Pour le cours et les TP :
 - https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science
 - https://dquenton.forge.apps.education.fr/nsi-terminale-specialite/BaseDeDonnees/BaseDeDonnees00/
+- https://github.com/kansiris/SQL-interview-questions/tree/master
 
 
 

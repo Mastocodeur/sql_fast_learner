@@ -1,9 +1,9 @@
 # <center> Cours complet SQL </center>
 
 
-<div style="text-align: center;">
+<center style="text-align: center;">
     <img src="tp/images/sql_librairie.png" width="500" height="300">
-</div>
+</center>
 
 
 L'objectif de ce dépôt github est de proposer un cours complet en SQL. 

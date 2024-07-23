@@ -7,7 +7,9 @@ Certains de ces cours sont actuellement adaptés pour être enseignés à des é
 Ce qui est intéressant c'est de proposer vraiment un cours très complet, ludique pour la partie TP et ensuite de réfléchir à la manière de l'enseigner et d'adapter ce cours à des élèves de lycée pro. 
 
 
-# Source
+# Sources
+
+Voici tous les liens qui m'ont permis de monter ce dépôt github. 
 
 Pour le cours et les TP :
 - https://www.coursera.org/learn/sql-data-science?specialization=ibm-data-science

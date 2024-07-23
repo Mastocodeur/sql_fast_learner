@@ -5,6 +5,10 @@
     <img src="tp/images/sql_librairie.png" width="500" height="300">
 </center>
 
+<p align="center">
+    <img src="tp/images/sql_librairie.png" width="500" height="300">
+</p>
+
 
 L'objectif de ce dépôt github est de proposer un cours complet en SQL. 
 

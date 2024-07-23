@@ -1,10 +1,5 @@
 # <center> Cours complet SQL </center>
 
-
-<center style="text-align: center;">
-    <img src="tp/images/sql_librairie.png" width="500" height="300">
-</center>
-
 <p align="center">
     <img src="tp/images/sql_librairie.png" width="500" height="300">
 </p>

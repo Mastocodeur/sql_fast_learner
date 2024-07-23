@@ -28,3 +28,5 @@ Pour le TP numéro 2 :
 Python et le SQL : 
 - https://www.easypythondocs.com/SQL.html
 - https://docs.python.org/3/library/sqlite3.html
+
+L'ensemble des illustrations a été réalisé avec ChatGPT-4.

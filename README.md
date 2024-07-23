@@ -20,10 +20,11 @@ Pour le cours et les TP :
 - https://dquenton.forge.apps.education.fr/nsi-terminale-specialite/BaseDeDonnees/BaseDeDonnees00/
 - https://github.com/kansiris/SQL-interview-questions/tree/master
 
-
-
 Pour le TP numéro 2 : 
 - https://mystery.knightlab.com/
 - https://www.kaggle.com/datasets/johnp47/sql-murder-mystery-database/
 - https://qkzk.xyz/docs/nsi/cours_terminale/bdd/murder_mystery/
 
+Python et le SQL : 
+- https://www.easypythondocs.com/SQL.html
+- https://docs.python.org/3/library/sqlite3.html

@@ -1,7 +1,7 @@
 # <center> Cours complet SQL </center>
 
 <p align="center">
-    <img src="tp/images/sql_librairie.png" width="500" height="300">
+    <img src="tp/images/sql_librairie.png" width="500" height="400">
 </p>
 
 

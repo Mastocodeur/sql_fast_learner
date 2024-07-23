@@ -5,12 +5,11 @@
 </p>
 
 
-L'objectif de ce dépôt github est de proposer un cours complet en SQL. 
+L'objectif de ce dépôt GitHub est de proposer un cours complet en SQL, adapté à tous les niveaux d'apprentissage. Que vous soyez un étudiant en école d'ingénieur ou un lycéen, ce cours est conçu pour répondre à vos besoins.
 
-Certains de ces cours sont actuellement adaptés pour être enseignés à des élèves de bac professionnel. 
+Actuellement, certains de ces cours sont spécifiquement adaptés pour être enseignés à des élèves de bac professionnel. L'idée est de fournir un contenu ludique et engageant, particulièrement pour les travaux pratiques (TP), afin de rendre l'apprentissage du SQL aussi agréable que possible.
 
-Ce qui est intéressant c'est de proposer vraiment un cours très complet, ludique pour la partie TP et ensuite de réfléchir à la manière de l'enseigner et d'adapter ce cours à des élèves de lycée pro. 
-
+Ce dépôt ne se limite pas à un simple manuel de cours ; il s'agit d'un projet évolutif visant à offrir un parcours d'apprentissage riche et diversifié, tout en réfléchissant à des méthodes pédagogiques efficaces pour différents niveaux d'étudiants, y compris ceux en lycée professionnel.
 
 # Sources
 

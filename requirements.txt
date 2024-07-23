@@ -1,2 +1,3 @@
 sql
 ipython-sql
+pandas
